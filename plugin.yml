@@ -1,1 +1,5 @@
-
+main: Blubberboy333\FactionName\Main
+description: Shows the faction name next to the player's name
+version: 1.0.0
+api: 1.0.0
+author: Blubberboy333
