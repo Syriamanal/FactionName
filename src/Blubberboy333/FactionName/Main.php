@@ -7,7 +7,7 @@ use pocketmine\Player;
 use FactionsPro\FactionsPro;
 use pocketmine\event\PlayerLeaveEvent;
 
-class Main extends PluginBase implements Litsener{
+class Main extends PluginBase implements Listener{
 
 public function onEnable(){
 	$FactionsPro = getServer()->getPluginManager()->getPlugin("FactionsPro");
